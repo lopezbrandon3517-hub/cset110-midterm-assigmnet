@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    background-color: rgb(186, 186, 186);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    color: rgb(74, 106, 166);
+}
+
+.nav li{
+    display: inline-block
+}
+
+
+.id2{
+    float: right;
+}
+
+
+.id3{ 
+}
+
+
+.id1{
+    width: 1300px;
+}
+
+.id4{
+    width: 1000px;
+    align-items: center;
+    float: center;
+    margin-left: 1000px;
+}
+
