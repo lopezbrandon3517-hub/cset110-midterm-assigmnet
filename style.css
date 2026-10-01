@@ -28,13 +28,29 @@
 
 
 .id1{
-    width: 1300px;
+    width: 600px;
 }
 
 .id4{
-    width: 1000px;
+    width: 300px;
     align-items: center;
     float: center;
-    margin-left: 1000px;
+    margin-left: 600px;
+    height: 420;
 }
 
+.nav2{
+    color: black;
+
+}
+
+.nav2 li{
+    display: inline-block;
+    margin-left: 220px;
+}
+
+
+.id5{
+    width: 1534px;
+    float: center;
+}
